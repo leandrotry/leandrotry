@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @leandrotry
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me text me on educacionaltorres@gmail.com
 
 <!---
